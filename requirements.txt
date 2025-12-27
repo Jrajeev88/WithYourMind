@@ -1,0 +1,7 @@
+transformers==4.35.2
+accelerate
+bitsandbytes
+peft
+googletrans==4.0.0-rc1
+gradio
+torch
